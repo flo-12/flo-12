@@ -1,4 +1,4 @@
-<h1>Hello World! I am Florian</h1>
+<h1>Hello World! I am Florian 👋</h1>
 
 <img align="right" src=https://i.gifer.com/2GU.gif style="object-fit: cover; height: 210px; float: right">
 
@@ -13,7 +13,7 @@
 
 - 👨🏻‍💻 Mainly Working with C and C++
 - 👨🏻‍💻 Worked as a Matlab developer.
-- 💫 Experienced in Software Modelling (UML/SysML)
+- 🛠 Experienced in Software Modelling (UML/SysML)
 - 🔥 Passionate Climber and Cyclist/Randonneur
 - 👨🏻‍🎓 Student at 42 Berlin
 - 👨🏻‍🎓 Former Student at TU Berlin
@@ -42,7 +42,15 @@ For the future I would like to be involved in meaningful projects that add up to
  ![UML](https://img.shields.io/badge/UML-FABD14.svg?style=for-the-badge&logo=UML&logoColor=black)
 </p>
 
-<h2>42 School Projects</h2>
+<h2>🚀 42 School Projects</h2>
+
+_The following are the published projects (more to come...)_
+- [minishell](https://github.com/flo-12/minishell)
+- [miniRT](https://github.com/flo-12/miniRT)
+- [Libft](https://github.com/flo-12/Libft)
+- [fract-ol](https://github.com/flo-12/fract-ol)
+- [Philosophers](https://github.com/flo-12/Philosophers)
+
 
 <h2>📊 GitHub Stats</h2>
 <details>
