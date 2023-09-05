@@ -17,7 +17,7 @@
 - 🔥 Passionate Climber and Cyclist/Randonneur
 - 👨🏻‍🎓 Student at 42 Berlin
 - 👨🏻‍🎓 Former Student at TU Berlin
-- 📫 You can contact me by [Email](mailto:fbecht@student.42berlin.de) or [LinkedIn](https://de.linkedin.com/in/florian-becht-a1241b123?challengeId=AQHetvWxg7K5fgAAAYpl34HF8QVgU00DrQKalKJgbDSg4dpuGSyfBtMv1tU5w0bMV0zqwTwB11TWKsWo-3bt02MzwCaSwasR9A&submissionId=6bd7ff9d-f508-8217-ddfe-2b733c3d5c17&challengeSource=AgEFx1rj_EllRAAAAYpl39G6t5WFplcfOvlyK0U-h1b2RCnlLQ5CIMrBWbWn1tY&challegeType=AgH8bMBqvmL_8AAAAYpl39G960EJYyHefOCmyDn1BiI8zBBWDHllOys&memberId=AgE9vmeSJ60_RgAAAYpl39HA_atk8LYrieYh-6jRHubBsHg&recognizeDevice=AgGP9pFy-7HjLwAAAYpl39HDYiIwaLmmoI85WZKcdJ9pGZ9_Lmxo).
+- 📫 You can contact me via [Email](mailto:fbecht@student.42berlin.de) or [LinkedIn](https://de.linkedin.com/in/florian-becht-a1241b123?challengeId=AQHetvWxg7K5fgAAAYpl34HF8QVgU00DrQKalKJgbDSg4dpuGSyfBtMv1tU5w0bMV0zqwTwB11TWKsWo-3bt02MzwCaSwasR9A&submissionId=6bd7ff9d-f508-8217-ddfe-2b733c3d5c17&challengeSource=AgEFx1rj_EllRAAAAYpl39G6t5WFplcfOvlyK0U-h1b2RCnlLQ5CIMrBWbWn1tY&challegeType=AgH8bMBqvmL_8AAAAYpl39G960EJYyHefOCmyDn1BiI8zBBWDHllOys&memberId=AgE9vmeSJ60_RgAAAYpl39HA_atk8LYrieYh-6jRHubBsHg&recognizeDevice=AgGP9pFy-7HjLwAAAYpl39HDYiIwaLmmoI85WZKcdJ9pGZ9_Lmxo).
 
 <h2>🌱 Goals</h2>
 <p align="left">
