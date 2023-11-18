@@ -50,6 +50,7 @@ _The following are the published projects (more to come...)_
 - [Libft](https://github.com/flo-12/Libft)
 - [fract-ol](https://github.com/flo-12/fract-ol)
 - [Philosophers](https://github.com/flo-12/Philosophers)
+- [C++ Modules](https://github.com/flo-12/CPP_Modules-42)
 
 
 <h2>📊 GitHub Stats</h2>
