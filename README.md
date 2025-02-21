@@ -57,5 +57,3 @@ _The following are the published projects (more to come...)_
 <h2>📊 GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flo-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flo-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
