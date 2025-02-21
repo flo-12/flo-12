@@ -55,10 +55,6 @@ _The following are the published projects (more to come...)_
 
 
 <h2>📊 GitHub Stats</h2>
-<details>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=flo-12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=flo-12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</details>
 
