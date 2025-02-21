@@ -45,7 +45,7 @@ For the future I would like to be involved in meaningful projects that add up to
 <h2>🚀 42 School Projects</h2>
 
 _The following are the published projects (more to come...)_
-- [Pong Website](https://github.com/mvomiero/42_pong)
+- [Pong Website](https://github.com/flo-12/ft_transcendence)
 - [minishell](https://github.com/flo-12/minishell)
 - [miniRT](https://github.com/flo-12/miniRT)
 - [Libft](https://github.com/flo-12/Libft)
