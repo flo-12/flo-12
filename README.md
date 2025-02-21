@@ -11,7 +11,7 @@
 [![researchgate](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Florian-Becht)
 
 
-- 👨🏻‍💻 Mainly Working with C and C++
+- 👨🏻‍💻 Working with C and C++ and in the Web environment (eg with Django, Bootstrap, JS)
 - 👨🏻‍💻 Worked as a Matlab developer.
 - 🛠 Experienced in Software Modelling (UML/SysML)
 - 🔥 Passionate Climber and Cyclist/Randonneur
